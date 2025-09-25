@@ -4,7 +4,7 @@ Dự án xây dựng nền tảng **trao đổi / mua bán sách cũ** giúp sin
 
 ---
 
-## 🚀 Tính năng chính
+## Tính năng chính
 - Đăng ký / đăng nhập tài khoản sinh viên.
 - Đăng bài rao bán sách (tên sách, mô tả, hình ảnh, giá, tình trạng).
 - Tìm kiếm và lọc sách theo môn học, giá, tình trạng.
@@ -14,7 +14,7 @@ Dự án xây dựng nền tảng **trao đổi / mua bán sách cũ** giúp sin
 
 ---
 
-## 🛠️ Công nghệ sử dụng
+## Công nghệ sử dụng
 - **Frontend:** ReactJS / Next.js, TailwindCSS / Ant Design.
 - **Backend:** Node.js (Express) hoặc PHP (Laravel).
 - **Database:** MySQL / MongoDB.
@@ -23,4 +23,4 @@ Dự án xây dựng nền tảng **trao đổi / mua bán sách cũ** giúp sin
 
 ---
 
-## 📂 Cấu trúc thư mục (gợi ý)
+## Cấu trúc thư mục (gợi ý)
