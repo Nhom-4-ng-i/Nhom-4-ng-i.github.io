@@ -51,4 +51,4 @@ Gửi thông báo khi có sách/tài liệu theo yêu cầu.
 Ứng dụng quản lý sách/tài liệu cũ, cho phép đăng sách/tài liệu cần pass và mô tả cơ bản (tên sách/tài liệu, môn học, tình trạng, giá, địa điểm giao dịch).  
 Tìm kiếm/lọc sách/tài liệu theo môn học và liên hệ trực tiếp với người pass.  
 
-*(Các tính năng khác như quản lý nhóm, chia sẻ file… có thể để roadmap.)*  
+*([Link Latex phần chi tiết nội dung.](https://www.overleaf.com/read/tcvjcbbkhzgb#5f6a78))*  
