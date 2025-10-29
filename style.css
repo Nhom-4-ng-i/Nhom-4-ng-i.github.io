@@ -1,0 +1,29 @@
+/* 🎨 Chủ đề tím-đen (#54408C) */
+.text-accent {
+  color: #7A63D2 !important;
+}
+
+.border-accent {
+  border: 1px solid #7A63D2 !important;
+}
+
+.feature-card {
+  background-color: #1B1833;
+  border: 1px solid rgba(122, 99, 210, 0.4);
+  border-radius: 14px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.feature-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 16px rgba(122, 99, 210, 0.6);
+}
+
+.nav-link:hover, .navbar-brand:hover {
+  color: #cbb8ff !important;
+}
+
+.card p {
+  color: #bbb;
+}
